@@ -1,8 +1,8 @@
 import requests
 from news_scraper import get_news
 
-TOKEN = "8734906416:AAG8_gzlmfR_20h5LWefDp1Mdm9rGz5Irk8"
-CHAT_ID = "1518491557"
+TOKEN = ""
+CHAT_ID = ""
 
 def send_alert():
 
